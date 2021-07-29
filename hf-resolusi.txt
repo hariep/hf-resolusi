@@ -1,9 +1,9 @@
 RESOLUSI hariep
 1. belajar GIT
-2. belajar konsep Object Oriented
 3. belajar JS (ES advanced)
 4. belajar NodeJS
 5. belajar NPM
 6. belajar python
 7. belajar jupyter notebook
 8. belajar Google colabs
+9. belajar postgresql
