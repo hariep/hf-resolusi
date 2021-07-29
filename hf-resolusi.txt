@@ -1,0 +1,6 @@
+RESOLUSI hariep
+1. belajar GIT
+2. belajar JS (ES advanced)
+3. belajar NodeJS
+4. belajar NPM
+5. belajar python
